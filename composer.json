@@ -18,7 +18,7 @@
         "brianium/paratest": "^7.4",
         "esi/phpunit-coverage-check": "^2.0",
         "friendsofphp/php-cs-fixer": "^3.0",
-        "phpmd/phpmd": "^2.15",
+        "phpmd/phpmd": "^2.15 || ^3.0",
         "phpstan/phpstan": "^1.10 || ^2.0",
         "phpunit/phpunit": "^10.0"
     },
